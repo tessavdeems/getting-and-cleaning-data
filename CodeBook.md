@@ -1,7 +1,9 @@
 CodeBook
+
 This code book describes the variables, the data, and any transformations or work that I have performed to clean up the data
 
-The Data 
+The Data
+
 The data used for this project represents data collected from the accelerometers from the Samsung Galaxy S Smartphone. A full description is available at:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
